@@ -27,7 +27,7 @@
 ## Installation 
 
 1. Clone the repository :
-   ```
-  git clone https://github.com/your-username/youtube-video-analyzer-api.git
-cd youtube-video-analyzer-api
- ```
+    ```bash
+    git clone https://github.com/Omkar-bhambe/Weathe_API.git
+    cd Weather_API
+    ```
