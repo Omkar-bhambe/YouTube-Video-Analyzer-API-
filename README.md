@@ -31,3 +31,8 @@
     git clone https://github.com/Omkar-bhambe/Weathe_API.git
     cd Weather_API
     ```
+2. Install virtual environment on your system and activate it :
+     ```bash
+     python3 -m venv venv
+     source venv\Scripts\activate
+     ```
