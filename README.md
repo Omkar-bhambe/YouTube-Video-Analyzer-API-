@@ -40,3 +40,11 @@
     ```bash
     pip install -r requirements.txt
     ```
+4. Set Up your API KEY :
+   ```bash
+   API_KEY = 'YOUR_API_KEY'
+   ```
+5. Give YouTube Video ID :
+   ```bash
+   Video_ID = 'ID_OF_THE_VIDEO'
+   ```
