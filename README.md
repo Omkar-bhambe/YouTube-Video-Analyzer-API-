@@ -13,7 +13,7 @@
 - A valid YouTube Data API v3 key
 - And following python packages:
   
-  - 'google-api-python-client
+  - 'google-api-python-client'
     
   - 'matplotlib'
     
