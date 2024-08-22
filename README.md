@@ -36,3 +36,7 @@
      python3 -m venv venv
      source venv\Scripts\activate
      ```
+3. Install required packages :
+    ```bash
+    pip install -r requirements.txt
+    ```
