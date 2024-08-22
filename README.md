@@ -23,3 +23,8 @@
   - 'numpy'
     
   - 'seaborn' (optional, for enhanced visualization)
+
+## Installation 
+
+1. Clone the repository :
+   ```bash```
