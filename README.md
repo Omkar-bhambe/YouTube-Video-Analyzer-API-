@@ -11,7 +11,7 @@
 
 ## Prerequisites
 - Python 3.6 or higher
-- A valid YouTube Data API v3 key
+- A valid YouTube Data API v3 key create one (sign up [YouTube Data API](https://console.cloud.google.com/welcome?_gl=1*1jpi0pq*_up*MQ..&gclid=6fee5bd906181f19f5443d1e43428b92&gclsrc=3p.ds&hl=en&project=yt-media-432209))
 - And following python packages:
   
   - 'google-api-python-client'
