@@ -16,7 +16,7 @@
   
   - 'google-api-python-client'
  
-  - 'Random'
+  - 'random'
     
   - 'matplotlib'
     
