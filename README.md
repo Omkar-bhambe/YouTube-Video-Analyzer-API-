@@ -115,4 +115,4 @@ Views Per Day: 46913.00
 
 ### Bar Plot
 
-<img src = "YouTube Video Analysis Output/Bar Plot.png height = 500 width = 500">
+<img src = "YouTube Video Analysis Output/Bar Plot.png" height = 500 width = 500>
