@@ -15,6 +15,8 @@
 - And following python packages:
   
   - 'google-api-python-client'
+ 
+  - 'Random'
     
   - 'matplotlib'
     
@@ -52,22 +54,31 @@
 
 ## Usage 
 
-1. ```generator_api.py``` : This provides a graphical user interface (GUI) for user registration, login, and graph generation using Matplotlib.
+This allows the user to fetch data of any data available on YouTube and plots graph for views, likes, and comments showcases a table which consist statistical analysis and views per day from the date of upload till current date. 
 
-   1. Registration : This provides the 'User Regitration Interface' for the API
+1. Set Up API KEY :
 
-   2. Login : This provides the 'User Login Interface' for the API
+   ```bash
+   API_KEY = 'YOUR_API_KEY'
+   ```
 
-   3. Generate Graphs :
+2. Choose a YouTube Video ID :
 
-      - On the Graph Generation Page, you can select the type of graph you want to generate: Line, Bar, or Scatter.
+```bash
+video_id = 'YOUR_VIDEO_ID'
+```
+
+3. Run the script
+
+```bash
+python youtube_video_analysis.py
+```
+
+4. View the Result
    
-      - Use the dropdown menu to choose the graph type.
-   
-      - Click the Generate Graph button to create and display the graph based on sample data.
-   
-      - The graph will be displayed on the right side of the screen.
-
-    4. Exiting the application :
-
-       - To the application, simply close the application.
+ - After running the script, the following outputs will be displayed:
+    - Video Title: The title of the YouTube video.
+    - Count of Likes: The number of likes the video has received.
+    - Count of Comments: The number of comments on the video.
+    - Views Per Day: The average number of views per day since the video was published.
+    - Statistical Analysis: Mean, median, and standard deviation of views, likes, and comments.
