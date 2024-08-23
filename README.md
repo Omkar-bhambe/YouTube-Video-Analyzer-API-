@@ -119,4 +119,4 @@ Views Per Day: 46913.00
 
 ### Pie Plot
 
-<img src = "YouTube Video Analysis Output/Pie - Chart.png" height = 370 width = 510>
+<img src = "YouTube Video Analysis Output/Pie - Chart.png" height = 370 width = 500>
