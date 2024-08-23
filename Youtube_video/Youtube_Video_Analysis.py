@@ -73,8 +73,8 @@ def plot_data(title, yt_df, stats):
 def main():
     # API key and video ID
     """Initialization of API"""
-    api_key = 'AIzaSyAxUF3Vxy08sZgFx_7qoybg7sb2XEAXxmw'
-    video_id = 'jNQXAC9IVRw'
+    api_key = 'YOUR_API_KEY'
+    video_id = 'VIDEO_ID'
 
     # Fetch video data
     title, like_count, comment_count, view_count, published_at = fetch_video_data(api_key, video_id)
