@@ -120,3 +120,7 @@ Views Per Day: 46913.00
 ### Pie Plot
 
 <img src = "YouTube Video Analysis Output/Pie - Chart.png" height = 370 width = 500>
+
+### Scatter Plot
+
+<img src = "YouTube Video Analysis Output/Scatter Plot.png" height = 350 width = 500>
