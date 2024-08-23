@@ -77,8 +77,18 @@ python youtube_video_analysis.py
 4. View the Result
    
  - After running the script, the following outputs will be displayed:
+   
     - Video Title: The title of the YouTube video.
     - Count of Likes: The number of likes the video has received.
     - Count of Comments: The number of comments on the video.
     - Views Per Day: The average number of views per day since the video was published.
     - Statistical Analysis: Mean, median, and standard deviation of views, likes, and comments.
+  
+5. Visualize the Data
+
+  - The script will generate and display the following visualizations:
+
+      - ```Bar Chart```: Shows the counts of views, likes, and comments.
+      - ```Pie Chart```: Represents the proportional distribution of views, likes, and comments.
+      - ```Scatter Plot```: Plots the counts of views, likes, and comments as individual points.
+      - ```Statistics Table```: Displays a table of the calculated statistics.
