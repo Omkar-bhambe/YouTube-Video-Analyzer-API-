@@ -49,3 +49,25 @@
    Video_ID = 'ID_OF_THE_VIDEO'
    ```
    #### Both 4th and 5th steps are to be used at the time of execution
+
+## Usage 
+
+1. ```generator_api.py``` : This provides a graphical user interface (GUI) for user registration, login, and graph generation using Matplotlib.
+
+       1. Registration : This provides the 'User Regitration Interface' for the API
+
+       2. Login : This provides the 'User Login Interface' for the API
+
+       3. Generate Graphs :
+
+             - On the Graph Generation Page, you can select the type of graph you want to generate: Line, Bar, or Scatter.
+   
+             - Use the dropdown menu to choose the graph type.
+   
+             - Click the Generate Graph button to create and display the graph based on sample data.
+   
+             - The graph will be displayed on the right side of the screen.
+
+       4. Exiting the application :
+
+            - To the application, simply close the application.
