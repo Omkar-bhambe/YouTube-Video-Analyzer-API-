@@ -132,4 +132,4 @@ Views Per Day: 46913.00
 
 ## Contributions 
 
-Contributions are welcome! Please feel free to submit a pull request with detailed information about the changes.
+<h3>Contributions are welcome! Please feel free to submit a pull request with detailed information about the changes.</h3>
