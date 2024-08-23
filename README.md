@@ -111,7 +111,8 @@ Median Value for Views,Like,Comments: 16696290.00
 Standard Deviation Value Views,Like,Comments: 183467670.61
 Views Per Day: 46913.00
 ```
+## An Overview of how the plot will it look like after execution
 
 ### Bar Plot
 
-<img src = YouTube Video Analysis Output/Bar Plot.png>
+<img src = "YouTube Video Analysis Output/Bar Plot.png">
