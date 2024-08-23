@@ -128,3 +128,8 @@ Views Per Day: 46913.00
 ### Statistical Table
 
 <img src = "YouTube Video Analysis Output/Statistical Analysis Table.png">
+
+
+## Contributions 
+
+Contributions are welcome! Please feel free to submit a pull request with detailed information about the changes.
