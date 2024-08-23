@@ -95,7 +95,7 @@ python youtube_video_analysis.py
    
 6. Customize the Script
 
-   - If desired, you can customize the script by modifying the plot_data() function to change the style, color, or type of plots generated.
+- If desired, you can customize the script by modifying the plot_data() function to change the style, color, or type of plots generated.
 
 #### Example Output
 
