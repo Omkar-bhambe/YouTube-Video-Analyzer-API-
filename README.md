@@ -113,7 +113,7 @@ Views Per Day: 46913.00
 ```
 ## An Overview of how the plot will it look like after execution
 
-<img src = "">
+<img src = "YouTube Video Analysis Output/YT_analysis plot sheet.png">
 
 ### Bar Plot
 
