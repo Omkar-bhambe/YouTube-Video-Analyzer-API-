@@ -92,3 +92,22 @@ python youtube_video_analysis.py
       - ```Pie Chart``` : Represents the proportional distribution of views, likes, and comments.
       - ```Scatter Plot``` : Plots the counts of views, likes, and comments as individual points.
       - ```Statistics Table``` : Displays a table of the calculated statistics.
+   
+6. Customize the Script
+
+   - If desired, you can customize the script by modifying the plot_data() function to change the style, color, or type of plots generated.
+
+#### Example Output
+
+```
+Title : Me at the zoo
+Count of Likes : 16696290
+Count of Comments : 10362874
+Views Per Day : 46913.00 views/day
+
+Statistical Analysis:
+Mean Value for Views,Like,Comments: 119438911.33
+Median Value for Views,Like,Comments: 16696290.00
+Standard Deviation Value Views,Like,Comments: 183467670.61
+Views Per Day: 46913.00
+```
