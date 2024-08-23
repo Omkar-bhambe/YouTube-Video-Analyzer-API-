@@ -15,8 +15,6 @@
 - And following python packages:
   
   - 'google-api-python-client'
- 
-  - 'random'
     
   - 'matplotlib'
     
