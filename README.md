@@ -58,9 +58,9 @@ This allows the user to fetch data of any data available on YouTube and plots gr
 
 1. Set Up API KEY :
 
-   ```bash
-   API_KEY = 'YOUR_API_KEY'
-   ```
+```bash
+API_KEY = 'YOUR_API_KEY'
+```
 
 2. Choose a YouTube Video ID :
 
