@@ -123,4 +123,4 @@ Views Per Day: 46913.00
 
 ### Scatter Plot
 
-<img src = "YouTube Video Analysis Output/Scatter Plot.png" height = 350 width = 550>
+<img src = "YouTube Video Analysis Output/Scatter Plot.png" height = 350 width = 600>
