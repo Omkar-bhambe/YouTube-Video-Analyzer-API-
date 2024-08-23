@@ -127,4 +127,4 @@ Views Per Day: 46913.00
 
 ### Statistical Table
 
-<img src = "YouTube Video Analysis Output/Statistical Analysis Table.png" height = 350 width = 550>
+<img src = "YouTube Video Analysis Output/Statistical Analysis Table.png" height = 370 width = 750>
